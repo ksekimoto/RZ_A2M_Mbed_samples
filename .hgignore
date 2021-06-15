@@ -1,0 +1,7 @@
+^BUILD$
+^.mbed$
+^opencv-lib$
+^mbed-os$
+^mbed-http$
+^mbed-gr-libs$
+^bootloader_d_n_d$
