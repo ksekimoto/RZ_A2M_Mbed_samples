@@ -25,7 +25,7 @@
 #define SAMPLE_SELECT_H
 
 // You can try each sample program by changing the following macro.
-#define SAMPLE_PROGRAM_NO  0
+#define SAMPLE_PROGRAM_NO  26
 
 // No.  Program file                   Description
 //
